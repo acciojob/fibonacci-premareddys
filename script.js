@@ -15,8 +15,9 @@ function fibonacci(num) {
         num1 = num2;
         num2 = sum;
     }
+		return num2;
 	}
-    return num2;
+    
 }
 
 
